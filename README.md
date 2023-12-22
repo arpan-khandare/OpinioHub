@@ -1,4 +1,4 @@
-# Poll_App
+# OpinioHub
 A Poll Web Application using Django Framework.
 
 #Features
